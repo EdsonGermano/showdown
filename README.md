@@ -1,4 +1,10 @@
-# Showdown [![build status](https://secure.travis-ci.org/coreyti/showdown.png)](http://travis-ci.org/coreyti/showdown)
+> **IMPORTANT!**
+>
+> This repo is a fork of a very old version of Showdown, which is being used for
+> a legacy-code migration project. If you're not working on said project, you
+> should not be using this repo.
+
+# Showdown
 
 A JavaScript port of Markdown
 
